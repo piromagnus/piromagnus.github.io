@@ -1,6 +1,6 @@
 # Pierre Marrec
 
-[FR](#fr) | [EN](#en)
+[FR](#fr) | [EN](README_en.md/#en)
 
 ![Photo de Pierre Marrec](placeholder_photo.jpg)
 
