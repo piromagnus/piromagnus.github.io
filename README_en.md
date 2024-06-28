@@ -1,5 +1,6 @@
 
 <div id="en">
+[FR](README.md#fr) | [EN](#en)
 
 ## About me
 
