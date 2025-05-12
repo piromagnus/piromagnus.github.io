@@ -40,7 +40,7 @@ navbar-links:
 
 # --- Logo ---
 # Add a square image to /assets/img/profile.png for a profile picture
-avatar: "/assets/img/profile.png"
+avatar: "/assets/photo.png"
 round-avatar: true
 # title-img: /path/to/image # Alternative logo
 
