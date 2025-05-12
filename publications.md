@@ -10,10 +10,10 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 ## Conference & Workshop Papers
 
 *   Goyallon, T., Lahkar, B. K., **Marrec, P.**, Dumas, R., Reveret, L., Muller, A., & Robert, T. (2023). Automatic Estimation of Center of Mass from Multi-Camera Video System. *In Proceedings of the 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE 2023)*, Paris, France.
-    *   [HAL Link: hal-04122335](https://hal.science/hal-04122335)
+    *   [HAL Link](https://hal.science/hal-04122335)
     *   Keywords: 3D Human Mesh Reconstruction, Multi-Camera Video, Sports Biomechanics, Center of Mass Estimation.
     <details>
-    <summary>BibTeX</summary>
+    <summary><strong>BibTeX</strong></summary>
     <pre><code>
 @inproceedings{GoyallonCMBBE2023,
   author    = {Thibault Goyallon AND Bhrigu Kumar Lahkar AND Pierre Marrec AND Raphaël Dumas AND Lionel Reveret AND Antoine Muller AND Thomas Robert},
@@ -29,12 +29,12 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
     </details>
 
 *   Vargas-Solar, G., **Marrec, P.**, & Halfeld Ferrari Alves, M. (2022). Comparing Graph Data Science Libraries for Querying and Analysing Datasets: Towards Data Science Queries on Graphs. In: Dustdar, S., Yu, E., Salinesi, C., Rieu, D., Pant, V. (eds) *Service-Oriented Computing – ICSOC 2021 Workshops (AIOps, STRAPS, AI-PA and Satellite Events)*. Lecture Notes in Computer Science, vol 13122. Springer, Cham. pp. 205-216.
-    *   [DOI: 10.1007/978-3-031-14135-5_16](https://doi.org/10.1007/978-3-031-14135-5_16)
-    *   [arXiv: 2208.09672](https://arxiv.org/abs/2208.09672)
-    *   [HAL Link: hal-03782537](https://hal.science/hal-03782537)
+    *   [DOI](https://doi.org/10.1007/978-3-031-14135-5_16)
+    *   [arXiv](https://arxiv.org/abs/2208.09672)
+    *   [HAL Link](https://hal.science/hal-03782537)
     *   Keywords: Data Science, Graph Databases, Query Languages, Machine Learning, Performance Comparison.
     <details>
-    <summary>BibTeX</summary>
+    <summary><strong>BibTeX</strong></summary>
     <pre><code>
 @inproceedings{VargasSolarICSOC2021ws,
   author    = {Genoveva Vargas-Solar AND Pierre Marrec AND Mirian Halfeld Ferrari Alves},

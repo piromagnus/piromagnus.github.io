@@ -47,6 +47,12 @@ The ultimate goal is to develop tools that can provide actionable feedback to at
 *   Investigated the use of neural networks, including Transformers and recurrent networks, for learning algorithmic patterns and logical reasoning.
 *   Keywords: Deep Learning, Transformers, RNNs, Algorithmic Reasoning, Logic Learning.
 
+### Data Science Query and Machine Learning (2020)
+*Undergraduate Research Internship at CNRS, Grenoble/Orléans (MADICS - DOING)*
+*   Researched and compared graph database technologies and libraries for data science queries and machine learning tasks.
+*   This work led to the ICSOC 2021 Workshops publication.
+*   Keywords: Graph Databases, Data Science, Machine Learning, Query Optimization, Neural Networks, Graph Predictions.
+
 
 <!-- 
   To add more projects:
