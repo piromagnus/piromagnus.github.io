@@ -65,8 +65,6 @@ Beyond my primary research, I enjoy working on personal projects that allow me t
 *   **Apr 2024 - July 2024:** Research Internship at INSEP, Paris (Deep Learning for athlete training analysis).
 *   **2023-2024:** Research Internship at National Institute of Informatics, Tokyo (Animatable Neural Human Bodies).
 *   **May 2023:** Presented work at the 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE), Paris.
-* 
-
 <!--
  *   *To add more news: copy the format above and list chronologically.*
   To update your CV link:
