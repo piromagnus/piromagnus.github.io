@@ -2,7 +2,7 @@
 layout: default # This assumes your theme or _layouts/ folder has a 'default.html'
 title: Home
 ---
-
+<!-- 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 3; padding-right: 20px;">
     <h1>Pierre Marrec</h1>
@@ -18,14 +18,9 @@ title: Home
   </div>
   <div style="flex: 1;">
     <img src="assets/photo.png" alt="Pierre Marrec" style="width: 180px; border-radius: 10%; margin-top: 10px;"/>
-    <!-- 
-      To add your image:
-      1. Create 'assets/img/' folders in your repository.
-      2. Put your image (e.g., 'pierre_marrec_photo.jpg') in 'assets/img/'.
-      3. Change 'placeholder_profile.png' to 'your_image_filename.jpg'.
-    -->
+
   </div>
-</div>
+</div> -->
 
 
 ## About Me
@@ -65,10 +60,3 @@ Beyond my primary research, I enjoy working on personal projects that allow me t
 *   **Apr 2024 - July 2024:** Research Internship at INSEP, Paris (Deep Learning for athlete training analysis).
 *   **2023-2024:** Research Internship at National Institute of Informatics, Tokyo (Animatable Neural Human Bodies).
 *   **May 2023:** Presented work at the 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE), Paris.
-<!--
- *   *To add more news: copy the format above and list chronologically.*
-  To update your CV link:
-  1. Create 'assets/pdf/' folders.
-  2. Place your CV (e.g., 'Pierre_Marrec_CV_2025.pdf') in 'assets/pdf/'.
-  3. Update the link in _config.yml and any direct links like the one in the contact info above.
--->

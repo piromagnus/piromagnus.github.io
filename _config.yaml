@@ -16,13 +16,145 @@ markdown: kramdown # Default for GitHub Pages
 # theme: minimal-mistakes-jekyll # Example theme, choose one or build your own. Minimal Mistakes is popular for academics.
 remote_theme: daattali/beautiful-jekyll
 
-# Basic navigation (you'll need to create these .md files or adjust paths)
-header_pages:
-  - index.md
-  - research.md
-  - publications.md
-  - teaching.md
-  - assets/CV_en.pdf # Path to your CV
+# List of links in the navigation bar
+navbar-links:
+  Home: "index.md"
+  Research: "research.md"
+  Publications: "publications.md"
+  Teaching: "teaching.md"
+  CV: "assets/CV_en.pdf" # Path to your CV
 
 # You can add more settings here like Google Analytics ID
 # google_analytics: UA-XXXXX-Y
+
+# Theme settings start here
+remote_theme: daattali/beautiful-jekyll
+
+# --- List of links in the navigation bar ---
+navbar-links:
+  Home: "index.md"
+  Research: "research.md"
+  Publications: "publications.md"
+  Teaching: "teaching.md"
+  CV: "assets/CV_en.pdf"
+
+# --- Logo ---
+# Add a square image to /assets/img/profile.png for a profile picture
+avatar: "/assets/img/profile.png"
+round-avatar: true
+# title-img: /path/to/image # Alternative logo
+
+# --- Footer social media links ---
+# Add or remove based on your profiles
+social-network-links:
+  email: "pierre.marrec@inria.fr"
+  rss: true # Show RSS link
+  github: piromagnus
+  linkedin: pierre-marrec-0a1791200
+  google-scholar: hg3QYgsAAAAJ
+  # twitter: your_twitter_handle # Example
+
+# RSS Feed Description
+rss-description: Pierre Marrec - PhD Student in Computer Vision. Updates on research and publications.
+
+# --- General options ---
+share-links-active: # Show share buttons on posts
+  twitter: true
+  facebook: false # Often less relevant for academic sites
+  linkedin: true
+url-pretty: "piromagnus.github.io" # Adjust if you have a custom domain
+title-on-all-pages: true # Add site title to page titles
+excerpt_length: 50 # Words in post previews
+feed_show_excerpt: true
+feed_show_tags: true
+post_search: true # Add search button to navbar
+edit_page_button: true # Add 'Edit page' button in footer (requires GitHub hosting)
+# navbar-var-length: false # Keep default unless needed
+
+# --- Colours / background image ---
+# Using theme defaults, customize if desired
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+# mobile-theme-col: "#0085A1"
+# site-css: # Add custom CSS files here
+# site-js: # Add custom JS files here
+
+# --- Web Analytics Section --- (Keep commented unless you have IDs)
+# gtag: "G-XXXXXXXXXX"
+# cloudflare_analytics: ""
+# gtm: ""
+# matomo:
+#   site_id: "9"
+#   uri: "demo.wiki.pro"
+#   opt-out: true
+
+# --- Comments --- (Keep commented unless you set up a provider)
+# disqus: ""
+# fb_comment_id: ""
+# commentbox: ""
+# utterances:
+#   repository: piromagnus/piromagnus.github.io # Example, confirm repo
+#   issue-term: title
+#   theme: github-light
+#   label: blog-comments
+# giscus:
+#   repository: piromagnus/piromagnus.github.io # Example, confirm repo
+#   repository-id: # ID of your repository
+#   category: Announcements # Example category
+#   category-id: # ID of your category
+#   mapping: pathname
+#   reactions-enabled: 1
+#   emit-metadata: 0
+#   theme: light
+
+# --- Misc ---
+date_format: "%B %-d, %Y"
+# fb_app_id: ""
+
+# --- Jekyll Build Settings (Defaults from theme) ---
+timezone: "Europe/Paris" # Adjust to your timezone if needed, e.g., "Europe/Paris"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false # Default comments off, enable per post or here if desired
+      social-share: true
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+  - Old/ # Exclude the Old directory if it's not meant to be published
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
