@@ -14,15 +14,15 @@ google_scholar_id: hg3QYgsAAAAJ # Add this when you have one
 # Build settings
 markdown: kramdown # Default for GitHub Pages
 # theme: minimal-mistakes-jekyll # Example theme, choose one or build your own. Minimal Mistakes is popular for academics.
-remote_theme: daattali/beautiful-jekyll
+# remote_theme: daattali/beautiful-jekyll
 
-# List of links in the navigation bar
-navbar-links:
-  Home: "index.md"
-  Research: "research.md"
-  Publications: "publications.md"
-  Teaching: "teaching.md"
-  CV: "assets/CV_en.pdf" # Path to your CV
+# # List of links in the navigation bar
+# navbar-links:
+#   Home: "/" # Link to root index.html
+#   Research: "research"
+#   Publications: "publications"
+#   Teaching: "teaching"
+#   CV: "assets/CV_en.pdf" # Keep full path for PDF
 
 # You can add more settings here like Google Analytics ID
 # google_analytics: UA-XXXXX-Y
@@ -32,11 +32,11 @@ remote_theme: daattali/beautiful-jekyll
 
 # --- List of links in the navigation bar ---
 navbar-links:
-  Home: "index.md"
-  Research: "research.md"
-  Publications: "publications.md"
-  Teaching: "teaching.md"
-  CV: "assets/CV_en.pdf"
+  Home: "/" # Link to root index.html
+  Research: "research"
+  Publications: "publications"
+  Teaching: "teaching"
+  CV: "assets/CV_en.pdf" # Keep full path for PDF
 
 # --- Logo ---
 # Add a square image to /assets/img/profile.png for a profile picture
