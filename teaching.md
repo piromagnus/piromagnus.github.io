@@ -13,13 +13,13 @@ I am enthusiastic about sharing knowledge and mentoring students in computer sci
     *   **Course:** Systems and Networks
     *   **Level:** Third-year Undergraduate (L3)
     *   **Term:** January 2025 - April 2025
-    *   **Responsibilities:** [Placeholder: e.g., Leading tutorial sessions, assisting with lab work, grading assignments.]
+    *   **Responsibilities:** :Leading tutorial sessions, assisting with lab work, grading assignments
 
 *   **Université Grenoble Alpes** (Grenoble, France)
     *   **Course:** Computer Architecture
     *   **Level:** Second-year Undergraduate (L2)
     *   **Term:** January 2025 - April 2025
-    *   **Responsibilities:** [Placeholder: e.g., Leading tutorial sessions, assisting with lab work, grading assignments.]
+    *   **Responsibilities:** :Leading tutorial sessions, assisting with lab work, grading assignments.
 
 ## Past Experience
 
