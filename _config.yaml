@@ -13,7 +13,8 @@ google_scholar_id: hg3QYgsAAAAJ # Add this when you have one
 
 # Build settings
 markdown: kramdown # Default for GitHub Pages
-theme: beautiful-jekyll # Example theme, choose one or build your own. Minimal Mistakes is popular for academics.
+# theme: minimal-mistakes-jekyll # Example theme, choose one or build your own. Minimal Mistakes is popular for academics.
+remote_theme: daattali/beautiful-jekyll
 
 # Basic navigation (you'll need to create these .md files or adjust paths)
 header_pages:

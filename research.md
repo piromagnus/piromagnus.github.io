@@ -40,6 +40,7 @@ The ultimate goal is to develop tools that can provide actionable feedback to at
 *   Developed and implemented pipelines for reconstructing 3D human body meshes from multi-camera video footage of athletes in action.
 *   This work contributed to a presentation at the CMBBE 2023 symposium.
 *   Keywords: 3D Reconstruction, Multi-view Stereo, Human Body Models, Neural Networks, Statistical Shape Models, Automated Video Processing.
+*   [Video Portfolio](humesh.md)
 
 ### Learning Algorithms using Neural Networks (2021)
 *Research Internship at SYSCOMA - LIRIS, Lyon*
