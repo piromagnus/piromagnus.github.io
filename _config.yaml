@@ -5,7 +5,7 @@ email: pierre.marrec@inria.fr
 author: Pierre Marrec
 github_username: piromagnus
 linkedin_profile: pierre-marrec-0a1791200 # e.g., pierremarrec or whatever your profile path is
-# google_scholar_id: your-google-scholar-id-placeholder # Add this when you have one
+google_scholar_id: hg3QYgsAAAAJ # Add this when you have one
 
 # Site settings
 # baseurl: "" # The subpath of your site, e.g. /blog. If you're hosting at yourusername.github.io, this is likely empty.

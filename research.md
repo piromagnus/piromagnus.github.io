@@ -26,12 +26,14 @@ The ultimate goal is to develop tools that can provide actionable feedback to at
 *   Applied Deep Learning techniques to analyze long-term training data of elite athletes.
 *   Focused on performance prediction and predicting perceived effort from physiological and power output data.
 *   Keywords: Deep Learning, Time Series Analysis, Sports Performance, Athlete Monitoring.
+*   [GitHub Repository](https://github.com/piromagnus/Cycling_analysis)
 
 ### Animatable Neural Human Body With Clothes From Casual Videos (2023-2024)
 *Research Internship at National Institute of Informatics, Tokyo (Sugimoto Lab)*
 *   Explored methods for creating dynamic, controllable 3D avatars of humans, including clothing, directly from casually captured videos.
 *   Involved work with neural networks, neural rendering (e.g., NeRF-like techniques), ray marching, and CUDA implementation for efficient processing.
 *   Keywords: Neural Avatars, Neural Rendering, 3D Reconstruction, Computer Graphics, CUDA.
+
 
 ### 3D Human Mesh Reconstruction from Multi-Camera Videos: Case of High-Level Sport (2022)
 *Research Internship at PERFANALYTICS, Grenoble (LJK - Université Grenoble Alpes)*
@@ -44,11 +46,6 @@ The ultimate goal is to develop tools that can provide actionable feedback to at
 *   Investigated the use of neural networks, including Transformers and recurrent networks, for learning algorithmic patterns and logical reasoning.
 *   Keywords: Deep Learning, Transformers, RNNs, Algorithmic Reasoning, Logic Learning.
 
-### Data Science Query and Machine Learning (2020)
-*Undergraduate Research Internship at CNRS, Grenoble/Orléans (MADICS - DOING)*
-*   Researched and compared graph database technologies and libraries for data science queries and machine learning tasks.
-*   This work led to the ICSOC 2021 Workshops publication.
-*   Keywords: Graph Databases, Data Science, Machine Learning, Query Optimization, Neural Networks, Graph Predictions.
 
 <!-- 
   To add more projects:

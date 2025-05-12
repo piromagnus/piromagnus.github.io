@@ -50,9 +50,10 @@ I am excited by the potential of these technologies to revolutionize how we anal
 *   **Apr 2024 - July 2024:** Research Internship at INSEP, Paris (Deep Learning for athlete training analysis).
 *   **2023-2024:** Research Internship at National Institute of Informatics, Tokyo (Animatable Neural Human Bodies).
 *   **May 2023:** Presented work at the 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE), Paris.
-    *   *To add more news: copy the format above and list chronologically.*
+* 
 
 <!--
+ *   *To add more news: copy the format above and list chronologically.*
   To update your CV link:
   1. Create 'assets/pdf/' folders.
   2. Place your CV (e.g., 'Pierre_Marrec_CV_2025.pdf') in 'assets/pdf/'.
