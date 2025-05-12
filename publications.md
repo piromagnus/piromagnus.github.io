@@ -15,8 +15,6 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 ## Conference & Workshop Papers
 
 *   Goyallon, T., Lahkar, B. K., **Marrec, P.**, Dumas, R., Reveret, L., Muller, A., & Robert, T. (2023). Automatic Estimation of Center of Mass from Multi-Camera Video System. *In Proceedings of the 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE 2023)*, Paris, France.
-    *   *(Note: This presentation likely corresponds to the CV entry: "3D Human Mesh Reconstruction from Multi-Camera Videos: Case of High-Level Sport" from the 2022 PERFANALYTICS internship.)*
-    *   [Link to Abstract/Paper if available](#link-placeholder) <!-- Replace #link-placeholder if you find a direct link -->
     *   [HAL Link: hal-04122335](https://hal.science/hal-04122335)
     *   Keywords: 3D Human Mesh Reconstruction, Multi-Camera Video, Sports Biomechanics, Center of Mass Estimation.
     *   <details>
