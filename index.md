@@ -48,7 +48,8 @@ My primary research interest is **3D Computer Vision for Human Motion Understand
 
 My other research interests include:
 *   **Reinforcement Learning:** I'm interested in using RL to optimize human motion analysis and interaction with the environment from videos.
-
+*   **Applications of NLP to Visual Reasoning:** I'm interested in using NLP Reasoning inside a visual pipeline to improve the robustness of the system.
+*   **Interpretable AI:** I'm interested in developing interpretable AI models to improve the trustworthiness of the system and get insights on how to progress for an athlete.
 
 ## Personal Projects
 
