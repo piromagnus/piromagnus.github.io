@@ -1,0 +1,27 @@
+title: Pierre Marrec
+description: PhD Student in Computer Vision
+email: pierre.marrec@inria.fr
+# Your Name and Social Media (replace placeholders)
+author: Pierre Marrec
+github_username: piromagnus
+linkedin_profile: pierre-marrec-0a1791200 # e.g., pierremarrec or whatever your profile path is
+# google_scholar_id: your-google-scholar-id-placeholder # Add this when you have one
+
+# Site settings
+# baseurl: "" # The subpath of your site, e.g. /blog. If you're hosting at yourusername.github.io, this is likely empty.
+# url: "https://your-github-username-placeholder.github.io" # Your site's full URL
+
+# Build settings
+markdown: kramdown # Default for GitHub Pages
+theme: minima # Example theme, choose one or build your own. Minimal Mistakes is popular for academics.
+
+# Basic navigation (you'll need to create these .md files or adjust paths)
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - assets/CV_en.pdf # Path to your CV
+
+# You can add more settings here like Google Analytics ID
+# google_analytics: UA-XXXXX-Y
