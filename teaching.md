@@ -7,7 +7,7 @@ title: Teaching
 
 I am enthusiastic about sharing knowledge and mentoring students in computer science.
 
-## Upcoming Teaching Assistant Roles
+## Teaching Assistant Roles
 
 *   **Université Grenoble Alpes** (Grenoble, France)
     *   **Course:** Systems and Networks
