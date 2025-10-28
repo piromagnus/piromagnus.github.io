@@ -50,7 +50,7 @@ My other research interests include:
 
 Beyond my primary research, I enjoy working on personal projects that allow me to explore different technologies and applications:
 
-*   **[Trail running data analysis and visualization](https://github.com/piromagnus/RunningManager):** Inspired by Football Manager video game, an streamlit-based app to plan and monitor my trail running training. This involves data processing, data analysis and creating informative dashboards.
+*   **[Trail running data analysis and visualization](https://github.com/piromagnus/RunningManager):** Inspired by Football Manager video game, an streamlit-based app to plan and monitor my trail running training. This involves data processing, data analysis and creating informative dashboards. Still in development but a first version is available.
 *   **[AI Research Automation Tools](https://github.com/piromagnus/researchNautomation):** Building tools to streamline parts of the research process. This includes automating Scientific Papers diggestions, custom weekly new papers curation and custom Deep Research. Everything is made to be integrated in my personal knowledge base, made with Obsidian.
 *   **[Tiktok-like AI Diggested Papers](https://github.com/piromagnus/taiktok):** Building a Tiktok-like platform to digest and easily read the most recent AI research papers based on custom queries for mobile devices. (in Flutter)
 
